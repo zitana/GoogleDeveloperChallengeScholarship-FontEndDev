@@ -1,7 +1,7 @@
 
 .card {
   font-family: 'Merriweather';
-  height: 600px;
+  height: 100%;
   width: 310px;
   box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
   border-radius: 5px;
@@ -15,6 +15,7 @@ h3 {
   font-size: 2em;
   color: #224687;
   padding-top: 5px;
+  height: 20px;
 }
 
 img {
